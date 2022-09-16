@@ -13,7 +13,7 @@ public class DataManager_Utils {
     static public Integer ROLLBACK_SUB_DAYS = 1*30;
     
     // Quota Amount
-    static public String quotaAmount = '1700000';
+    static public String quotaAmount = '1700000';  
     
     // Reference Opportunity
     static public String refOpp = 'Opportunity for Ray1381';
