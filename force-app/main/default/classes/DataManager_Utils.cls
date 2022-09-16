@@ -36,7 +36,7 @@ public class DataManager_Utils {
             if (srcString.length() > 7) {
                 String yyyy=srcString.subString(0,4);
                 String mm=srcString.subString(5,7);
-                String dd=srcString.subString(8,10);
+                String dd=srcString.subString(8,10);  
                 
                 Integer year = integer.valueOf(yyyy);
                 Integer month = integer.valueOf(mm);
